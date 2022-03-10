@@ -61,4 +61,5 @@ That's it! You've finished off the game! Happy pancake-making!
 
 ## Resources
 
+
 - [React: Component Specs and Lifecycle](https://reactjs.org/docs/react-component.html)
